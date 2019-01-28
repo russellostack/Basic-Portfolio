@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+.header{
+    width:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.nametag{
+
+}
+.links{
+
+}
+.container{
+    width: 960px;
+    background-color: darkseagreen;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+.headshot{
+    float:left;
+}
+.bio {
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+}
